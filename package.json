@@ -1,0 +1,22 @@
+{
+  "name": "@hashtagchris/test-package-registry-workflows",
+  "version": "1.0.0",
+  "description": "Test using a npm package in the GitHub Package Registry",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hashtagchris/test-package-registry-workflows.git"
+  },
+  "author": "hashtagchris",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hashtagchris/test-package-registry-workflows/issues"
+  },
+  "homepage": "https://github.com/hashtagchris/test-package-registry-workflows#readme",
+  "dependencies": {
+    "@codertocat/hello-world-npm": "^1.0.2"
+  }
+}
